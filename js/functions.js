@@ -312,7 +312,7 @@
                 //Open directly via API
                 $.magnificPopup.open({
                   items: {
-                    src: '<div class="white-popup"><div class="kt-popup-newsletter"><div class="popup-title"><img src="./images/welcome.png" class="hidden-xs"/><img src="./images/welcome-resp.png" class="visible-xs"/></div></div></div>',  //can be a HTML string, jQuery object, or CSS selector
+                    src: '<div class="white-popup"><div class="kt-popup-newsletter"><div class="popup-title"><img src="./images/welcome.png" class=""/></div></div></div>',  //can be a HTML string, jQuery object, or CSS selector
                     type: 'inline'
                   }
                 });
