@@ -3931,7 +3931,7 @@ ICON
 .element-icon.style2 {
     border: 1px dashed #37623b;
     padding: 48px;
- 
+
     display: table;
     width: 100%;
 
@@ -9580,7 +9580,7 @@ RESPONSIVE
 
 .favorito {
     background-color: #fff;
-  
+
     border-left: 0;
     color: #d20b12;
     padding: 11px 15px 13px;
@@ -9591,7 +9591,7 @@ RESPONSIVE
 
 .favorito:hover {
     color: #d20b12;
-    
+
 }
 
 .style-10 {
@@ -9845,6 +9845,11 @@ li.info-pts span {
     border-radius: 10px;
     box-shadow: 2px 4px 10px 2px #ebebeb;
 }
+
 .product-thumb img {
     border-radius: 10px;
+}
+
+.red {
+    color: #d20b12;
 }
