@@ -3930,11 +3930,11 @@ ICON
 
 .element-icon.style2 {
     border: 1px dashed #37623b;
-    padding: 48px 0;
-    text-align: center;
+    padding: 48px;
+ 
     display: table;
     width: 100%;
-    text-align: center;
+
 }
 
 .element-icon.style2:before {
