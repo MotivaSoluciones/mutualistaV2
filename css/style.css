@@ -9680,7 +9680,7 @@ li.info-pts {
 .appWhatsapp {
 
     border-radius: 16px;
-    background: #009688;
+    background: #d20b12;
     color: rgb(255, 255, 255);
 
     align-items: center;
@@ -9727,7 +9727,7 @@ li.info-pts {
     width: 35px;
     max-height: 35px;
     height: 50px !important;
-    background-color: #009688;
+    background-color: #d20b12;
     border-radius: 50%;
     position: absolute;
     bottom: 15px;
