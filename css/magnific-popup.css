@@ -150,21 +150,21 @@ button::-moz-focus-inner {
 }
 
 .mfp-close {
-    width: 44px;
-    height: 44px;
+    width: 50px;
+    height: 50px;
     line-height: 44px;
     position: absolute;
-    right: 20px;
-    top: 20px;
+    right: 0px;
+    top: 4px;
     text-decoration: none;
     text-align: center;
-    opacity: 0.65;
+   
     filter: alpha(opacity=65);
     padding: 0 0 18px 10px;
     color: #FFF;
     font-style: normal;
     font-size: 55px;
-    font-family: Arial, Baskerville, monospace;
+    font-family: Arial;
 }
 
 .mfp-close:hover,
@@ -179,6 +179,8 @@ button::-moz-focus-inner {
 
 .mfp-close-btn-in .mfp-close {
     color: #d20b12;
+        background: #fff;
+    border-radius: 50%;
 }
 
 .mfp-image-holder .mfp-close,

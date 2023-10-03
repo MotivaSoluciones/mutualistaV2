@@ -9855,3 +9855,8 @@ li.info-pts span {
 .red {
     color: #d20b12;
 }
+
+.img-inicial {
+    border: 8px solid #fff;
+    border-radius: 70px;
+}
