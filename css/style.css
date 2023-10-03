@@ -4156,7 +4156,7 @@ FOOTER
 .footer {
     color: #545454;
     padding-top: 25px;
-    border-top: 30px solid #d20b12;
+    border-top: 18px solid #d20b12;
 }
 
 /*.footer .flex-flow{
@@ -9840,7 +9840,7 @@ li.info-pts span {
 
 .now .active a {
     font-weight: 600;
-    color: #000;
+    color: #d20b12!important;
 }
 
 .product-thumb {
