@@ -9840,7 +9840,7 @@ li.info-pts span {
 
 .now .active a {
     font-weight: 600;
-    color: #d20b12!important;
+    color: #d20b12 !important;
 }
 
 .product-thumb {
@@ -9859,4 +9859,10 @@ li.info-pts span {
 .img-inicial {
     border: 8px solid #fff;
     border-radius: 70px;
+}
+
+@media(min-width:1024px) {
+    .conoce-footer {
+        margin-left: 40px;
+    }
 }
