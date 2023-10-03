@@ -4895,9 +4895,11 @@ FOOTER
     color: rgba(201, 153, 71, 0.5);
 }
 
+/*
 .section-title.style6 h3 {
     font-size: 27px;
 }
+*/
 
 .section-title.style6 h3:before {
     display: none;
