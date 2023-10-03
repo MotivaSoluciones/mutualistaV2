@@ -7864,8 +7864,8 @@ BLOG PAGE
     height: 42px;
     position: fixed;
     z-index: 9999;
-    right: 10px;
-    bottom: 70px;
+    right: 40px;
+    bottom: 120px;
     background-color: #d20b12;
     display: none;
     color: #fff;
@@ -9755,10 +9755,10 @@ li.info-pts {
     border-radius: 25px;
     cursor: pointer;
     position: fixed;
-    bottom: 10px;
-    right: 4px;
-    width: 54px;
-    height: 54px;
+    bottom: 0px;
+    right: 0px;
+    width: 120px;
+    height: 120px;
 }
 
 /* The popup chat - hidden by default */
